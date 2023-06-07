@@ -20,9 +20,9 @@ I'm front end developer 24 years old
 
 🔭 I am currently looking for a job as a Front End Developer
 
-📫 How to reach me
-Email: agaev.alimosim@gmail.com
-Telegram: Horow1
+📫 How to reach me <br>
+Email: agaev.alimosim@gmail.com <br>
+Telegram: Horow1 <br>
 Phone/WhatsApp : +77027559774  
   
 
