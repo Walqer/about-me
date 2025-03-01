@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-I'm front end developer 25 years old
+I'm front end developer 26 years old
 👨‍💻 working remotely since 2017🚀
 
 🔭 I am currently looking for a job as a Front End Developer
